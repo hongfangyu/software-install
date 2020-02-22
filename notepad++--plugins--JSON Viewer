@@ -1,0 +1,9 @@
+1.下载JSON-Viewer的release版本NPPJSONViewer_Win32.zip：
+https://github.com/kapilratnani/JSON-Viewer/releases
+解压得到NPPJSONViewer.dll
+
+2.在notepad++的安装目录plugins下建立文件夹NppJSONViewer
+
+3.把第1步中的dll放在第2步中文件夹下
+
+4.重新打开notepad++
